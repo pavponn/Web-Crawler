@@ -5,4 +5,4 @@
  - Download images from pages and save info about them
  - Save links and headlines of pages in the oblects of class Page
  
-Tests and base are made by Georgiy Korneev
+Tests and base are made by Georgiy Korneev.
