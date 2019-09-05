@@ -6,7 +6,7 @@
  - Save links and headlines of pages in the objects of class Page
 
 ## Test
-Tested manually and automatically with the help special test cases created by Georgiy Korneev.
+Tested manually and automatically with the help of special test cases created by Georgiy Korneev.
 
 ## Copyright
 Pavel Ponomarev, 2018 (pavponn@gmail.com)
